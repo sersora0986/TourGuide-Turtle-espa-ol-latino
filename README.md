@@ -22,7 +22,12 @@ Versión adaptada del addon **TourGuide** de *cralor* para **WoW 1.12**, especia
 🧙 **Condiciones especiales** según clase o si tenés un objeto específico  
 
 ---
+## ✅ Addons obligatorio
 
+- [**TomTomVanilla**](https://github.com/cralor/TomTomVanilla/releases/latest)  
+
+
+---
 ## ✅ Addons recomendados
 
 - [**pfQuest** en español](https://github.com/shagu/pfQuest-turtle)  
