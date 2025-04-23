@@ -25,9 +25,9 @@ Versión adaptada del addon **TourGuide** de *cralor* para **WoW 1.12**, especia
 
 ## ✅ Addons recomendados
 
-- [**pfQuest**](https://github.com/shagu/pfQuest-turtle)
+- [**pfQuest**] en Es(https://github.com/shagu/pfQuest-turtle)
   
-- [**pfUI**](https://shagu.org)  
+- [**pfUI**] en Es[(https://shagu.org](https://github.com/shagu/pfUI))  
 - [**TomTomVanilla**](https://github.com/cralor/TomTomVanilla/releases/latest)
 
 ### 🛠️ Opcional:
